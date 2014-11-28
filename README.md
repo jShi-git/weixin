@@ -86,16 +86,12 @@ weixin
 ![](screenshot/xcm.jpg)
 ![](screenshot/2014.jpg)
 ![](screenshot/apple.jpg)
-![](screenshot/bns.jpg)
 ![](screenshot/eye.jpg)
 ![](screenshot/iphone.jpg)
-![](screenshot/msts.jpg)
-![](screenshot/mxyx.jpg)
 ![](screenshot/mzs.jpg)
 ![](screenshot/qlbxs.jpg)
 ![](screenshot/rd.jpg)
 ![](screenshot/sjzg.jpg)
-![](screenshot/zmz.jpg)
 
 #版权相关说明
 ```
